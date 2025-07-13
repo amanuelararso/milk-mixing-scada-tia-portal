@@ -17,11 +17,11 @@ This repository contains the tutorial project for designing a milk mixing system
 ## 📂 Folders
 - `hmi_project/`: Exported TIA Portal project (.zap or project files)
 - `ladder_logic/`: PDFs and screenshots of ladder diagrams
-- 'Data Blocks'
+- 'Data_Blocks': DB tables for the tags
 ## ✅ Requirements
 - Siemens TIA Portal V15.1
 - PLCSim V15.1
 - WinCC Runtime Professional
 
 ## 📜 License
-MIT / or your preferred license.
+MIT
