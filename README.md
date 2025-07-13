@@ -14,11 +14,9 @@ This repository contains the tutorial project for designing a milk mixing system
 - [Part 2: PLCSim & WinCC Runtime Simulation](https://youtu.be/RSLSA9ebbg8)
 
 ## 📂 Folders
-- `hmi_project/`: Exported TIA Portal project (`.zap` or project files)
+- `hmi_project/`: Exported TIA Portal project (.zap or project files)
 - `ladder_logic/`: PDFs and screenshots of ladder diagrams
-- `docs/`: Screenshots and diagrams
-- `video/`: Tutorial video files or thumbnails
-
+- 'Data Blocks'
 ## ✅ Requirements
 - Siemens TIA Portal V15.1
 - PLCSim V15.1
