@@ -8,6 +8,7 @@ This repository contains the tutorial project for designing a milk mixing system
 - PLC ladder programming
 - Simulation with PLCSim and WinCC Runtime
 - Tutorial videos
+<img width="1728" height="1080" alt="Milk_Mixing_System_-_SCADA_in_Siemens_TIA_Portal_–_Part_1_First_Frame" src="https://github.com/user-attachments/assets/c639bde3-e4eb-4ebf-b5c4-505b6436c7b0" />
 
 ## 📺 Videos
 - [Part 1: HMI & Configuration](https://youtu.be/_ahem3RmbC8)
