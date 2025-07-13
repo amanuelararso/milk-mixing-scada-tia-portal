@@ -1,0 +1,10 @@
+1. Download from plc4me.com
+2. Install like any other program
+3. Activation: 
+	- Turn off windows defender by windows security > virus and threat protection > manage setting > real-time protection 'off'
+	- Extract: [plc4me.com]Sim_EKB_Install_2022_11_17.rar
+	- right click on 'Sim_EKB_Install_2022_11_27_Run_as_Admin' inside the extracted folder > run as administrator
+	- Look for 'TIA Portal' with folder icon, on the left side, 
+	- double click on 'TIA Portal V15/15.1' folder icon. Keys will appear on the right side
+	- click select all > Install Long
+4. Done.
